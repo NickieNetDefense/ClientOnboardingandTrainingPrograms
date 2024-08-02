@@ -1,0 +1,16 @@
+# Advanced Power BI Guide
+
+## Introduction
+This guide covers advanced features and best practices for using Power BI.
+
+## Advanced Data Transformations
+- Using Power Query Editor
+- Merging and appending queries
+
+## Custom Visuals
+- Importing custom visuals
+- Creating custom visuals with R and Python
+
+## Best Practices
+- Data modeling best practices
+- Performance optimization tips
