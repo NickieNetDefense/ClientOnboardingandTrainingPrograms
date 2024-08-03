@@ -5,7 +5,7 @@
 
 This project showcases onboarding new clients and providing comprehensive training programs. It includes onboarding checklists and schedules, training materials, client feedback, and case studies demonstrating successful onboarding experiences.
 
-![Onboarding Process](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/project_timeline.png?raw=true)
+![Onboarding Process](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/Project_Timeline.png?raw=true)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -19,9 +19,9 @@ This project showcases onboarding new clients and providing comprehensive traini
 - [Screenshots](#screenshots)
 
 ## Overview
-This project demonstrates my role in onboarding new clients and providing training programs. It includes:
+This project demonstrates onboarding new clients and providing training programs. It includes:
 - Onboarding checklists and schedules
-- Training materials (guides, presentations, videos)
+- Training materials (guides, checklists, presentations, and videos)
 - Client feedback on the onboarding and training process
 - Case studies of successful onboarding experiences
 
@@ -37,16 +37,22 @@ cd Client_Onboarding_and_Training_Programs
 To explore the Client Onboarding and Training Programs:
 # Onboarding Checklist for New Clients
 
-## Pre-Onboarding
-- [ ] Initial meeting with client
-- [ ] Collect client requirements
-- [ ] Set up client account
+# 3 Phases of Onboarding:
 
-## Week 1
-- [ ] Introduce client to the team
-- [ ] Provide access to necessary tools
-- [ ] Schedule training sessions
-## Training Materials
+## Pre-Onboarding Documents
+- [Pre-Onboarding Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/pre_onboarding_checklist)
+- [Initial Meeting With The Client](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/client_initial_meeting)
+
+## Onboarding Documents
+- [Onboarding Schedule](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/onboarding_schedule)
+- [Week 1 Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/week1_checklist)
+- [Week 2 Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/week2_checklist)
+- [Week 3 Checklist]
+- [Week 4 Checklist]
+- [Power BI User Guide]
+- [Power BI Advanced User Guide]
+
+## Post Onboarding Documents
 View comprehensive guides, presentations, and videos in the Training-Materials folder.
 # User Guide for [Tool/Software]
 
@@ -140,7 +146,3 @@ Onboarding Checklist
 Training Guide
 Training Guide
 Client Feedback
-Client Feedback
-Case Study
-Case Study
-
