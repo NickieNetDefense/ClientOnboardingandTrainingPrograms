@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-This project showcases my expertise in onboarding new clients and providing comprehensive training programs. It includes onboarding checklists and schedules, training materials, client feedback, and case studies demonstrating successful onboarding experiences.
+This project showcases onboarding new clients and providing comprehensive training programs. It includes onboarding checklists and schedules, training materials, client feedback, and case studies demonstrating successful onboarding experiences.
 
 ![Onboarding Process](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/Project_Timeline.png?raw=true)
 
