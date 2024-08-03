@@ -1,18 +1,87 @@
-# Onboarding Schedule
+# Power BI Client Onboarding Schedule
 
-## Day-by-Day Schedule for Onboarding
+## Week 1: Introduction and Basics 🚀
 
-### Day 1
-- Initial setup and team introductions
+### Day 1-2: Welcome and Setup
+- Welcome call with account manager
+- System access setup
+- **Action Item**: Complete welcome survey
+- Install Power BI Desktop
 
-### Day 2
-- Basic navigation and creating first dashboard
+### Day 3-4: Power BI Fundamentals
+1. Introduction to the Power BI ecosystem
+2. Navigating the Power BI Desktop interface
+3. Connecting to data sources
+4. **Hands-on**: Create your first simple report
 
-### Day 3
-- Adding data sources and creating visualizations
+### Day 5: Q&A and Goal Setting
+- Address initial questions
+- Define key objectives for Power BI implementation
+- Establish performance metrics
 
-### Day 4
-- Advanced features and integrations
+---
 
-### Day 5
-- Review and feedback session
+## Week 2: Data Modeling and Visualization 📊
+
+### Day 1-2: Data Modeling
+- Understanding data relationships
+- Creating and managing tables
+- Introduction to DAX (Data Analysis Expressions)
+- **Hands-on**: Build a basic data model
+
+### Day 3-4: Visualization Techniques
+1. Overview of visualization types
+2. Creating and customizing charts
+3. Using filters and slicers
+4. **Hands-on**: Design an interactive dashboard
+
+### Day 5: Best Practices Workshop
+- Data modeling best practices
+- Visualization design principles
+- Performance optimization tips
+
+---
+
+## Week 3: Advanced Features and Collaboration 🤝
+
+### Day 1-2: Advanced DAX and Measures
+- Creating complex measures
+- Time intelligence functions
+- **Hands-on**: Implement advanced calculations
+
+### Day 3-4: Power BI Service and Sharing
+- Publishing reports to Power BI Service
+- Creating and managing workspaces
+- Sharing and collaboration features
+- **Hands-on**: Publish and share a report
+
+### Day 5: Security and Governance
+- Implementing row-level security
+- Managing access and permissions
+- Data governance best practices
+
+---
+
+## Week 4: Integration and Advanced Topics 🎯
+
+### Day 1-2: Power BI Integration
+- Embedding reports in other applications
+- Power BI APIs overview
+- Integration with other Microsoft tools
+
+### Day 3-4: Advanced Topics
+- AI features in Power BI
+
+### Day 5: Wrap-up and Next Steps
+- Review of key learnings
+- Discussion of ongoing support options
+- Planning for future advanced training
+
+---
+
+## Additional Resources 📚
+- [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
+- [Power BI Community](https://community.powerbi.com/)
+- [Power BI Blog](https://powerbi.microsoft.com/en-us/blog/)
+
+**Remember**: Our support team can always assist you throughout your Power BI journey!
