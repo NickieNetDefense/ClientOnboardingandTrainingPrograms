@@ -39,10 +39,10 @@
 2. Schedule and conduct the initial meeting with the client using the provided documents.
 3. Follow the onboarding schedule provided.
 4. Use the weekly checklists to track progress:
-    - Week 1: week_1_checklist.md
-    - Week 2: week_2_checklist.md
-    - Week 3: week_3_checklist.md
-    - Week 4: week_4_checklist.md
+    - Week 1: week1_checklist.md
+    - Week 2: week2_checklist.md
+    - Week 3: week3_checklist.md
+    - Week 4: week4_checklist.md
 5. Utilize the guides for basic and advanced user training:
     - power_bi_user_guide.md
     - power_bi_advanced_user_guide.md
