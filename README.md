@@ -67,23 +67,23 @@
 - [Onboarding Schedule](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/onboarding_schedule)
 - [Week 1 Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/week1_checklist)
 - [Week 2 Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/week2_checklist)
-- [Week 3 Checklist]
-- [Week 4 Checklist]
-- [Power BI User Guide]
-- [Power BI Advanced User Guide]
+- [Week 3 Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/week3_checklist)
+- [Week 4 Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/week4_checklist)
+- [Power BI User Guide](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/power_bi_user_guide)
+- [Power BI Advanced User Guide](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/power_bi_advanced_user_guide)
 - [Presentations: Detailed presentations for training sessions]
 - [Videos: Instructional videos for various topics]
 
 ## Post Onboarding Documents
-- [Post-Onboarding Checklist]
-- [Client Feedback Form]
-- [Ongoing Support Plan]
-- [Training Resources]
-- [Performance Review Document] schedule regular performance reviews with the client. track progress and address any issues.
-- [Advanced Training Schedule] - plan for advanced training sessions based on client needs. schedule for ongoing training and development.
+- [Post-Onboarding Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/post_onboarding_checklist)
+- [Client Feedback Form](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/client_feedback_form)
+- [Ongoing Support Plan](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/ongoing_support_plan)
+- [Training Resources List](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/training_resources_list)
+- [Client Performance Review Document](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/client_performance_review_document)
+- [Advanced Training Schedule](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/advanced_training_schedule)
 
-## Case Study: Successful Onboarding of [Client Name]
-- In progress...
+## Case Study: 
+- [Successful Onboarding Example Story](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/successful_onboarding_example_story)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
