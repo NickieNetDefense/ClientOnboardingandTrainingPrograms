@@ -30,9 +30,8 @@
 ## Installation
 > Follow these steps to install and set up the project:
 
-1. Clone the repository: '''bash git clone https://github.com/ellisperez47/Client_Onboarding_and_Training_Programs.git'''
-2. Navigate to the project directory:
-'''cd Client_Onboarding_and_Training_Programs'''
+1. Clone the repository: ```bash git clone https://github.com/ellisperez47/Client_Onboarding_and_Training_Programs.git```
+2. Navigate to the project directory:```cd Client_Onboarding_and_Training_Programs```
 
 ## Usage
 > This Power BI Client Onboarding and Training Program is designed to be implemented over a 4-week period. Here's how to use this program:
@@ -55,9 +54,9 @@
 ## Contributing
 > We welcome contributions to improve this project. Follow these steps to contribute:
 1. Fork the project.
-2. Create a new branch: '''git checkout -b feature/new-feature'''
-4. Make your changes and commit them: '''git commit -m 'Add new feature''''
-5. Push to your fork: '''git push origin feature/new-feature'''
+2. Create a new branch: ```git checkout -b feature/new-feature```
+4. Make your changes and commit them: ```git commit -m 'Add new feature'```
+5. Push to your fork: ```git push origin feature/new-feature```
 6. Submit a pull request
 
 ## Pre-Onboarding Documents
