@@ -31,7 +31,7 @@
 > Follow these steps to install and set up the project:
 
 1. Clone the repository: ```bash git clone https://github.com/ellisperez47/Client_Onboarding_and_Training_Programs.git```
-2. Navigate to the project directory:```cd Client_Onboarding_and_Training_Programs```
+2. Navigate to the project directory: ```cd Client_Onboarding_and_Training_Programs```
 
 ## Usage
 > This Power BI Client Onboarding and Training Program is designed to be implemented over a 4-week period. Here's how to use this program:
@@ -39,13 +39,13 @@
 2. Schedule and conduct the initial meeting with the client using the provided documents.
 3. Follow the onboarding schedule provided.
 4. Use the weekly checklists to track progress:
-- Week 1: week_1_checklist.md
-- Week 2: week_2_checklist.md
-- Week 3: week_3_checklist.md
-- Week 4: week_4_checklist.md
+    - Week 1: week_1_checklist.md
+    - Week 2: week_2_checklist.md
+    - Week 3: week_3_checklist.md
+    - Week 4: week_4_checklist.md
 5. Utilize the guides for basic and advanced user training:
-- power_bi_user_guide.md
-- power_bi_advanced_user_guide.md
+    - power_bi_user_guide.md
+    - power_bi_advanced_user_guide.md
 6. Conduct a post-onboarding review using the post-onboarding documents.
 7. Schedule regular performance reviews with the client.
 8. Track progress and address any issues.
