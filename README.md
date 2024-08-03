@@ -30,7 +30,7 @@
 ## Installation
 > Follow these steps to install and set up the project:
 
-1. Clone the repository: ```bash git clone https://github.com/ellisperez47/Client_Onboarding_and_Training_Programs.git```
+1. Clone the repository: ```bash git clone https://github.com/nickienetdefense/Client_Onboarding_and_Training_Programs.git```
 2. Navigate to the project directory: ```cd Client_Onboarding_and_Training_Programs```
 
 ## Usage
