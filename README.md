@@ -5,7 +5,7 @@
 
 This project showcases onboarding new clients and providing comprehensive training programs. It includes onboarding checklists and schedules, training materials, client feedback, and case studies demonstrating successful onboarding experiences.
 
-![Onboarding Process](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/Project_Timeline.png?raw=true)
+![Onboarding Process](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/project_timeline.png?raw=true)
 
 ## Table of Contents
 - [Overview](#overview)
