@@ -1,6 +1,35 @@
 # Pre-Onboarding Checklist
 
 ## Tasks to Complete Before Onboarding
-- [ ] Create a Power BI account
-- [ ] Set up initial data sources
-- [ ] Schedule initial meeting with the client
+- [ ] **Create a Power BI Account**
+  - Ensure the client has access to all necessary features and permissions.
+
+- [ ] **Set Up Initial Data Sources**
+  - Verify data source compatibility with Power BI.
+  - Ensure data sources are clean and prepared for integration.
+
+- [ ] **Schedule Initial Meeting with the Client**
+  - Confirm date, time, and platform for the meeting.
+  - Send a calendar invite to all participants.
+
+## Additional Tasks to Consider
+- [ ] **Define Project Goals and Objectives**
+  - Discuss and document the client's expectations and desired outcomes.
+
+- [ ] **Gather Client Requirements**
+  - Collect any specific requirements or constraints from the client.
+
+- [ ] **Prepare Onboarding Materials**
+  - Ensure all necessary documents, guides, and presentations are ready for the initial meeting.
+
+- [ ] **Set Up Communication Channels**
+  - Establish preferred methods of communication (e.g., email, Slack, Teams).
+
+- [ ] **Assign Roles and Responsibilities**
+  - Clarify who will be responsible for each aspect of the onboarding process.
+
+- [ ] **Review Legal and Compliance Requirements**
+  - Ensure all necessary legal documents and agreements are in place.
+
+- [ ] **Technical Environment Check**
+  - Verify that the client's technical environment meets the requirements for Power BI integration.
