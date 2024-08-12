@@ -71,7 +71,12 @@
 - [Week 4 Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/week4_checklist)
 - [Power BI User Guide](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/power_bi_user_guide)
 - [Power BI Advanced User Guide](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/power_bi_advanced_user_guide)
-- [Presentations: Detailed presentations for training sessions]
+- [Presentation: Introduction to Power BI and its compenents]
+- [Presentation: Data import and transformation techniques]
+- [Presentation: Creating and customizing visualizations]
+- [Presentation: Advanced data modeling and DAX functions]
+- [Presentation: Sharing and collaboration features in Power BI]
+- [Presentation: Security and governance best practices]
 - [Videos: Instructional videos for various topics]
 
 ## Post Onboarding Documents
