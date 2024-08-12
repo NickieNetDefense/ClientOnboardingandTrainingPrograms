@@ -1,1 +1,34 @@
+# Power BI Advanced User Guide
 
+## Advanced Data Modeling
+- Creating complex data models with relationships
+- Using DAX for calculated columns and measures
+- Implementing time intelligence functions
+
+## Advanced Visualizations
+- Customizing visuals with advanced formatting options
+- Using custom visuals from the Power BI marketplace
+- Creating interactive dashboards with drill-through and tooltips
+
+## Power BI Service Features
+- Managing workspaces and content packs
+- Configuring data refresh schedules
+- Implementing row-level security for data protection
+
+## Integration and Automation
+- Embedding Power BI reports in other applications (e.g., SharePoint, Teams)
+- Using Power BI APIs for automation
+- Integrating Power BI with Microsoft Power Platform (Power Apps, Power Automate)
+
+## AI and Machine Learning
+- Leveraging AI features like Q&A and insights
+- Integrating with Azure Machine Learning for predictive analytics
+
+## Best Practices and Optimization
+- Best practices for data modeling and report design
+- Tips for optimizing performance and load times
+- Data governance and compliance considerations
+
+## Additional Resources
+- [Advanced Power BI courses](https://www.coursera.org/learn/advanced-microsoft-power-bi) 
+- [Advanced Power BI certifications](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)
