@@ -60,7 +60,7 @@
 6. Submit a pull request
 
 ## Pre-Onboarding Documents
-- [Pre-Onboarding Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/pre_onboarding_checklist)
+- [Pre-Onboarding Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/checklists/pre_onboarding_checklist)
 - [Initial Meeting With The Client](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/client_initial_meeting)
 
 ## Onboarding Documents
