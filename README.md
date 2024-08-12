@@ -72,7 +72,7 @@
 - [Power BI User Guide](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/user_guides/power_bi_user_guide)
 - [Power BI Advanced User Guide](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/user_guides/power_bi_advanced_user_guide)
 - [Presentation: Introduction to Power BI and its components](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/presentations/introduction_to_power_bi.pdf)
-- [Presentation: Data import and transformation techniques]
+- [Presentation: Data import and transformation techniques](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/presentations/data_import_and_transformation_techniques.pdf)
 - [Presentation: Creating and customizing visualizations]
 - [Presentation: Advanced data modeling and DAX functions]
 - [Presentation: Sharing and collaboration features in Power BI]
