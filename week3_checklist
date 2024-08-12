@@ -1,1 +1,51 @@
+# Week 3 Onboarding Checklist
 
+## Tasks for the Third Week
+
+### Advanced DAX and Measures
+- [ ] **Create Complex Measures**
+  - [ ] Learn to write advanced DAX formulas
+  - [ ] Create measures that involve multiple tables and complex calculations
+
+- [ ] **Time Intelligence Functions**
+  - [ ] Explore DAX functions for time-based calculations
+  - [ ] Implement time intelligence in reports (e.g., year-to-date, month-over-month)
+
+- [ ] **Hands-on Exercise**
+  - [ ] Implement advanced calculations using DAX in a sample report
+
+### Power BI Service and Sharing
+- [ ] **Publish Reports to Power BI Service**
+  - [ ] Learn how to publish reports from Power BI Desktop to the Power BI Service
+  - [ ] Explore options for report scheduling and refresh
+
+- [ ] **Creating and Managing Workspaces**
+  - [ ] Set up and organize workspaces for collaboration
+  - [ ] Manage content and permissions within workspaces
+
+- [ ] **Sharing and Collaboration Features**
+  - [ ] Share reports and dashboards with team members
+  - [ ] Collaborate using comments and annotations
+
+- [ ] **Hands-on Exercise**
+  - [ ] Publish and share a report with team members
+
+### Security and Governance
+- [ ] **Implement Row-Level Security**
+  - [ ] Set up row-level security to control data access
+  - [ ] Test security settings to ensure proper data protection
+
+- [ ] **Manage Access and Permissions**
+  - [ ] Review and adjust user permissions for reports and datasets
+  - [ ] Ensure compliance with organizational security policies
+
+- [ ] **Data Governance Best Practices**
+  - [ ] Learn best practices for data governance and compliance
+  - [ ] Implement data governance strategies in Power BI
+
+### Feedback and Support
+- [ ] **Gather Feedback on Week 3**
+  - [ ] Conduct a survey to gather feedback on the third week's experience
+  - [ ] Schedule a session to address any questions or challenges
+
+**Note**: Utilize available resources and reach out to the support team for any assistance needed.
