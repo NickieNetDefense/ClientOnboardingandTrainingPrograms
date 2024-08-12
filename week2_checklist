@@ -1,6 +1,52 @@
 # Week 2 Onboarding Checklist
 
 ## Tasks for the Second Week
-- [ ] Advanced features training
-- [ ] Setting up data refresh schedules
-- [ ] Final review and feedback session
+
+### Data Modeling
+- [ ] **Understand Data Relationships**
+  - [ ] Review the concept of data relationships in Power BI
+  - [ ] Explore different types of relationships (one-to-one, one-to-many, etc.)
+
+- [ ] **Create and Manage Tables**
+  - [ ] Import data into Power BI and create tables
+  - [ ] Edit and manage table properties and relationships
+
+- [ ] **Introduction to DAX (Data Analysis Expressions)**
+  - [ ] Learn basic DAX functions and formulas
+  - [ ] Create simple calculated columns and measures
+
+- [ ] **Hands-on Exercise**
+  - [ ] Build a basic data model using sample data
+
+### Visualization Techniques
+- [ ] **Overview of Visualization Types**
+  - [ ] Explore different visualization options in Power BI
+  - [ ] Understand when to use each type of visualization
+
+- [ ] **Creating and Customizing Charts**
+  - [ ] Create various chart types (bar, line, pie, etc.)
+  - [ ] Customize chart properties and formatting
+
+- [ ] **Using Filters and Slicers**
+  - [ ] Apply filters to refine data displayed in visualizations
+  - [ ] Use slicers to create interactive reports
+
+- [ ] **Hands-on Exercise**
+  - [ ] Design an interactive dashboard with multiple visualizations
+
+### Best Practices Workshop
+- [ ] **Data Modeling Best Practices**
+  - [ ] Review best practices for efficient data modeling
+
+- [ ] **Visualization Design Principles**
+  - [ ] Learn principles for creating clear and effective visualizations
+
+- [ ] **Performance Optimization Tips**
+  - [ ] Explore techniques to optimize report performance
+
+### Feedback and Support
+- [ ] **Gather Feedback on Week 2**
+  - [ ] Conduct a survey to gather feedback on the second week's experience
+  - [ ] Schedule a session to address any questions or challenges
+
+**Note**: Continue to utilize available resources and reach out to the support team for any assistance needed.
