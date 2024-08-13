@@ -77,7 +77,8 @@
 - [Presentation: Advanced data modeling and DAX functions](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/presentations/advanced_data_modeling_and_dax_functions_in_power_bi.pdf)
 - [Presentation: Sharing and collaboration features in Power BI](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/presentations/sharing_and_collaboration_features_in_power_bi.pdf)
 - [Presentation: Security and governance best practices](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/presentations/security_and_governance_best_practices_in_power_bi.pdf)
-- [Videos: Instructional videos for various topics]
+- [Video: Data Import and Transformation Techniques]
+- [Video: Security and Governance Best Practices in Power BI]
 
 ## Post Onboarding Documents
 - [Post-Onboarding Checklist](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/checklists/post_onboarding_checklist)
@@ -85,7 +86,6 @@
 - [Ongoing Support Plan](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/post-onboarding_documents/ongoing_support_plan)
 - [Training Resources List](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/training_materials/training_resources_list)
 - [Client Performance Review Document](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/post-onboarding_documents/client_performance_review_document)
-- [Advanced Training Schedule](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/onboarding_documents/advanced_training_schedule)
 
 ## Case Study: 
 - [Successful Onboarding Example Story](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/post-onboarding_documents/successful_onboarding_example_story)
