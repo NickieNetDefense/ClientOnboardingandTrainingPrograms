@@ -73,10 +73,10 @@
 - [Power BI Advanced User Guide](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/user_guides/power_bi_advanced_user_guide)
 - [Presentation: Introduction to Power BI and its components](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/presentations/introduction_to_power_bi.pdf)
 - [Presentation: Data import and transformation techniques](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/presentations/data_import_and_transformation_techniques.pdf)
-- [Presentation: Creating and customizing visualizations]
-- [Presentation: Advanced data modeling and DAX functions]
-- [Presentation: Sharing and collaboration features in Power BI]
-- [Presentation: Security and governance best practices]
+- [Presentation: Creating and customizing visualizations](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/presentations/creating_and_customizing_visualizations_in_power_bi.pdf)
+- [Presentation: Advanced data modeling and DAX functions](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/presentations/advanced_data_modeling_and_dax_functions_in_power_bi.pdf)
+- [Presentation: Sharing and collaboration features in Power BI](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/presentations/sharing_and_collaboration_features_in_power_bi.pdf)
+- [Presentation: Security and governance best practices](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/presentations/security_and_governance_best_practices_in_power_bi.pdf)
 - [Videos: Instructional videos for various topics]
 
 ## Post Onboarding Documents
