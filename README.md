@@ -15,6 +15,7 @@
 - [Pre-Onboarding Documents](#pre-onboarding-documents)
 - [Onboarding Documents](#onboarding-documents)
 - [Post-Onboarding Documents](#post-onboarding-documents)
+- [Case Study](#case_study:)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Libraries & Tools](#libraries--tools)
