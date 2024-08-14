@@ -88,7 +88,7 @@
 - [Training Resources List](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/training_materials/training_resources_list)
 - [Client Performance Review Document](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/post-onboarding_documents/client_performance_review_document)
 
-## Case Study: 
+## Case Study
 - [Successful Onboarding Example Story](https://github.com/NickieNetDefense/Client_Onboarding_and_Training_Programs/blob/main/post-onboarding_documents/successful_onboarding_example_story)
 
 ## License
